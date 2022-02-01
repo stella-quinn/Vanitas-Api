@@ -1,8 +1,8 @@
 package main
 
 import (
-	"syl-api/db"
-	"syl-api/routes"
+	"Vanitas-Api/db"
+	"Vanitas-Api/routes"
 
 	"github.com/gin-gonic/gin"
 )
