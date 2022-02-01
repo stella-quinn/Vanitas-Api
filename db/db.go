@@ -2,7 +2,7 @@ package db
 
 import (
 	"context"
-	"vanitas-api/types"
+	"Vanitas-Api/types"
 	"time"
 	"os"
 	"go.mongodb.org/mongo-driver/bson"
