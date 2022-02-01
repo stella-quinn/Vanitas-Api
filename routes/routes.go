@@ -2,7 +2,7 @@ package routes
 
 import (
 	"strconv"
-	"vanitas-api/db"
+	"Vanitas-Api/db"
 
 	"github.com/gin-gonic/gin"
 )
